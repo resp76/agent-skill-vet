@@ -309,7 +309,7 @@
   }
  },
  "heygen-com/hyperframes": {
-  "sha": "89a7aa30042e34eb2643205e1dca6a18b642cf0e",
+  "sha": "d208281091b1c00db1724a2ee3db0055955eb41b",
   "skills": {
    "hyperframes-cli": {
     "path": "skills/hyperframes-cli",
@@ -2382,7 +2382,7 @@
   }
  },
  "vercel-labs/agent-browser": {
-  "sha": "1cc19526f3641c8543d55aa6700e7c55b37ac356",
+  "sha": "4720bc3dd73f2c8f7c84f415adfa560330b924c4",
   "skills": {
    "agent-browser": {
     "path": "skills/agent-browser",
@@ -6123,6 +6123,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -6144,6 +6151,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -6158,6 +6172,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -6168,6 +6189,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -6192,6 +6220,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -6213,6 +6248,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -6227,6 +6269,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -6237,6 +6286,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -6345,6 +6401,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -6366,6 +6429,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -6380,6 +6450,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -6390,6 +6467,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -6432,6 +6516,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -6453,6 +6544,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -6467,6 +6565,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -6477,6 +6582,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -7637,6 +7749,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -7658,6 +7777,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -7672,6 +7798,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -7682,6 +7815,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -7706,6 +7846,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -7727,6 +7874,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -7741,6 +7895,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -7751,6 +7912,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -11677,6 +11845,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -11698,6 +11873,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -11712,6 +11894,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -11722,6 +11911,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -11746,6 +11942,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -11767,6 +11970,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -11781,6 +11991,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -11791,6 +12008,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -13401,6 +13625,13 @@
      },
      {
       "severity": "med",
+      "file": "references/sdk/azd-deployment.md",
+      "line": 8,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
       "file": "references/services/key-vault/bicep.md",
       "line": 77,
       "rule": "api-key",
@@ -13655,6 +13886,13 @@
       "line": 8,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/sdk/azd-deployment.md",
+      "line": 8,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      }
     ]
    },
@@ -15335,6 +15573,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -15356,6 +15601,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -15370,6 +15622,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -15380,6 +15639,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -15404,6 +15670,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -15425,6 +15698,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -15439,6 +15719,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -15449,6 +15736,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -15837,6 +16131,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -15858,6 +16159,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -15872,6 +16180,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -15882,6 +16197,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -15919,6 +16241,13 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 18,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 27,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -15940,6 +16269,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 30,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -15954,6 +16290,13 @@
      {
       "severity": "med",
       "file": "references/authentication.md",
+      "line": 44,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/authentication.md",
       "line": 53,
       "rule": "api-key",
       "message": "Suspicious pattern: api-key"
@@ -15964,6 +16307,13 @@
       "line": 6,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/cli-reference.md",
+      "line": 6,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -17164,7 +17514,7 @@
   }
  },
  "larksuite/cli": {
-  "sha": "05e9c6ef74290f78601892ed9eb8a6389d8fc8ca",
+  "sha": "3d82c85419ad7560ad017db7a3972a596b5fbeb1",
   "skills": {
    "lark-doc": {
     "path": "skills/lark-doc",
@@ -18830,7 +19180,7 @@
   }
  },
  "pbakaus/impeccable": {
-  "sha": "b4bff1626c344067788c2679f048a20057c7cc5a",
+  "sha": "c4cd1924c389f68d37c687d9c2bbf13f12547c41",
   "skills": {
    "impeccable": {
     "path": ".pi/skills/impeccable",
@@ -19076,7 +19426,7 @@
   }
  },
  "stablyai/orca": {
-  "sha": "a1667c029796b5cd50ae175b0af70faf7642ce2e",
+  "sha": "cd4a4a9fb19e06612bba5ac73d7122c28c3899c7",
   "skills": {
    "orca-cli": {
     "path": "skills/orca-cli",
@@ -19175,7 +19525,7 @@
   }
  },
  "shadcn/ui": {
-  "sha": "dd41d19e2f80ff6891951f7ced74c2c9a650b065",
+  "sha": "e62c9435fff729a175f38983dee73b2cb4f6a069",
   "skills": {
    "shadcn": {
     "path": "skills/shadcn",
@@ -19791,6 +20141,13 @@
       "line": 37,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
+      "line": 37,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      }
     ]
    },
@@ -19804,6 +20161,13 @@
       "line": 35,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
+      "line": 35,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      }
     ]
    },
@@ -19817,6 +20181,13 @@
       "line": 29,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
+      "line": 29,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      }
     ]
    },
@@ -19830,6 +20201,13 @@
       "line": 26,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
+      "line": 26,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      }
     ]
    },
@@ -19843,6 +20221,13 @@
       "line": 102,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
+      "line": 102,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -20106,6 +20491,13 @@
       "line": 20,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
+      "line": 20,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      }
     ]
    },
@@ -20119,6 +20511,13 @@
       "line": 28,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
+      "line": 28,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -20147,6 +20546,13 @@
       "line": 65,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/prerequisites.md",
+      "line": 65,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -23074,7 +23480,7 @@
   }
  },
  "shadcn-ui/ui": {
-  "sha": "dd41d19e2f80ff6891951f7ced74c2c9a650b065",
+  "sha": "e62c9435fff729a175f38983dee73b2cb4f6a069",
   "skills": {
    "shadcn": {
     "path": "skills/shadcn",
@@ -23364,6 +23770,13 @@
      },
      {
       "severity": "med",
+      "file": "references/anchor/migrating-v0.32-to-v1.md",
+      "line": 481,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
       "file": "references/common-errors.md",
       "line": 107,
       "rule": "download",
@@ -23431,6 +23844,13 @@
       "line": 264,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/common-errors.md",
+      "line": 264,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -23813,6 +24233,13 @@
      {
       "severity": "med",
       "file": "references/surfpool/overview.md",
+      "line": 42,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/surfpool/overview.md",
       "line": 267,
       "rule": "download",
       "message": "Suspicious pattern: download"
@@ -23883,6 +24310,13 @@
      {
       "severity": "med",
       "file": "references/testing.md",
+      "line": 228,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "references/testing.md",
       "line": 259,
       "rule": "base64",
       "message": "Suspicious pattern: base64"
@@ -23914,6 +24348,13 @@
       "line": 463,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "references/testing.md",
+      "line": 463,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      },
      {
       "severity": "med",
@@ -25744,9 +26185,23 @@
      {
       "severity": "med",
       "file": "SKILL.md",
+      "line": 19,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
       "line": 42,
       "rule": "download",
       "message": "Suspicious pattern: download"
+     },
+     {
+      "severity": "med",
+      "file": "SKILL.md",
+      "line": 42,
+      "rule": "pipe-to-shell",
+      "message": "Suspicious pattern: pipe-to-shell"
      }
     ]
    }
@@ -25923,7 +26378,7 @@
   }
  },
  "browser-use/browser-use": {
-  "sha": "dfb6a73d520809341c975c6a01c228327991e88b",
+  "sha": "48d9fe008bb98a8959279b495518652dfb934d6b",
   "skills": {
    "browser-use": {
     "path": "skills/browser-use",
@@ -26571,7 +27026,7 @@
   }
  },
  "expo/skills": {
-  "sha": "acc0b21ce09be356b5cf0323482bdfe7db0b7a1e",
+  "sha": "cd91460c0834e29ebb5fad92c34a690a3b207ed2",
   "skills": {
    "expo-dev-client": {
     "path": "plugins/expo/skills/expo-dev-client",
@@ -26597,7 +27052,7 @@
   "error": "not-github"
  },
  "vercel/ai": {
-  "sha": "146396263d283bd978c08864a3f8122def076e06",
+  "sha": "8bc7652cdb13fc84722666eb93f45acd0d131eee",
   "skills": {
    "ai-sdk": {
     "path": "skills/use-ai-sdk",

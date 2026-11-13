@@ -6,7 +6,8 @@ const scripts = /\.(py|sh|js|mjs|ts|rb|ps1|bat|exe|bin)$/i;
 // Tag characters can carry a full hidden ASCII message; bidi controls can reorder what a reviewer sees.
 const tagRun = /[\u{E0000}-\u{E007F}]+/gu;
 const bidi = /[\u202A-\u202E\u2066-\u2069]/gu;
-const zeroWidth = /[\u200B-\u200F\u2060-\u2064\uFEFF]/gu;
+// Also: grapheme joiner, Arabic letter mark, Mongolian separator, deprecated format controls, supplementary variation selectors.
+const zeroWidth = /[\u034F\u061C\u180E\u200B-\u200F\u2060-\u2064\u206A-\u206F\uFEFF\u{E0100}-\u{E01EF}]/gu;
 const code = char => `U+${char.codePointAt(0).toString(16).toUpperCase().padStart(4, '0')}`;
 const patterns = [
   ['download', /\b(?:curl|wget)\b/i],
@@ -15,6 +16,9 @@ const patterns = [
   ['exec', /\bexec\s*\(/i],
   ['subprocess', /subprocess/i],
   ['api-key', /api[_-]?key/i],
+  ['pipe-to-shell', /\b(?:curl|wget)\b[^|\n]*\|\s*(?:sudo\s+)?(?:ba|z|da)?sh\b/i],
+  // High-precision credential shapes only; lines marked EXAMPLE are documentation placeholders.
+  ['secret', /-----BEGIN (?:RSA |EC |DSA |OPENSSH |PGP )?PRIVATE KEY-----|\bAKIA[0-9A-Z]{16}\b|\bgh[pousr]_[A-Za-z0-9]{36,}|\bsk-ant-[A-Za-z0-9_-]{20,}|\bxox[baprs]-[A-Za-z0-9-]{10,}|\bAIza[0-9A-Za-z_-]{35}\b/],
   ['chmod', /\bchmod\b/i],
   ['sudo', /\bsudo\b/i],
   ['recursive-delete', /\brm\s+-rf\b/i],
@@ -72,7 +76,9 @@ export async function scan(directory) {
         if (zero.length) add(zero.length >= 4 ? 'high' : 'low', file, index + 1, 'hidden-unicode', `${zero.length} zero-width character(s), first ${code(zero[0][0])}`);
         for (const [rule, regex] of patterns) {
           const match = regex.exec(line);
-          if (!match) continue;
+          if (!match || (rule === 'secret' && /example/i.test(line))) continue;
+          // A warning ("never run curl | sh") is guidance, not an instruction to pipe a download into a shell.
+          if (rule === 'pipe-to-shell' && /\b(?:never|don'?t|do not|avoid)\b/i.test(line.slice(0, match.index))) continue;
           // A quoted phrase is usually a warning about injection, not an injection.
           const quoted = rule === 'ignore-previous' && /["'`\u201C\u2018\u300C]\s*$/.test(line.slice(0, match.index));
           add(rule !== 'ignore-previous' ? 'med' : quoted ? 'low' : 'high', file, index + 1, rule, `Suspicious pattern: ${rule}${quoted ? ' (quoted example)' : ''}`);
