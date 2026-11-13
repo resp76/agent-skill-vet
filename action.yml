@@ -1,0 +1,27 @@
+name: agent-skill-vet
+description: Scan agent skills (SKILL.md folders) for hidden Unicode, instruction overrides and shipped scripts
+branding:
+  icon: shield
+  color: green
+inputs:
+  path:
+    description: Directory to search for skills (every folder containing a SKILL.md is scanned)
+    default: .
+runs:
+  using: composite
+  steps:
+    - shell: bash
+      env:
+        SKILL_PATH: ${{ inputs.path }}
+        VET: ${{ github.action_path }}/bin/skill-vet.mjs
+      run: |
+        status=0 found=0
+        while IFS= read -r -d '' file; do
+          found=1
+          dir=$(dirname "$file")
+          echo "::group::$dir"
+          node "$VET" "$dir" || status=1
+          echo "::endgroup::"
+        done < <(find "$SKILL_PATH" -name SKILL.md -not -path '*/node_modules/*' -not -path '*/.git/*' -print0)
+        [ "$found" = 1 ] || { echo "No SKILL.md found under $SKILL_PATH"; exit 1; }
+        exit $status

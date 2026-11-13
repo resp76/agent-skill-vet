@@ -3,7 +3,11 @@ import path from 'node:path';
 import { TextDecoder } from 'node:util';
 
 const scripts = /\.(py|sh|js|mjs|ts|rb|ps1|bat|exe|bin)$/i;
-const hidden = /[\u200B-\u200F\u202A-\u202E\u2060-\u2064\uFEFF\u{E0000}-\u{E007F}]/gu;
+// Tag characters can carry a full hidden ASCII message; bidi controls can reorder what a reviewer sees.
+const tagRun = /[\u{E0000}-\u{E007F}]+/gu;
+const bidi = /[\u202A-\u202E\u2066-\u2069]/gu;
+const zeroWidth = /[\u200B-\u200F\u2060-\u2064\uFEFF]/gu;
+const code = char => `U+${char.codePointAt(0).toString(16).toUpperCase().padStart(4, '0')}`;
 const patterns = [
   ['download', /\b(?:curl|wget)\b/i],
   ['base64', /base64/i],
@@ -55,13 +59,23 @@ export async function scan(directory) {
       }
       const lines = text.split(/\r?\n/);
       for (const [index, line] of lines.entries()) {
-        for (const match of line.matchAll(hidden)) {
-          if (match[0] === '\uFEFF' && index === 0 && match.index === 0) continue;
-          if (match[0] === '\u200D' && emojiEnd.test(line.slice(0, match.index)) && emojiStart.test(line.slice(match.index + 1))) continue;
-          add('high', file, index + 1, 'hidden-unicode', `Hidden Unicode U+${match[0].codePointAt(0).toString(16).toUpperCase().padStart(4, '0')}`);
+        for (const match of line.matchAll(tagRun)) {
+          if (line.slice(0, match.index).endsWith('\u{1F3F4}')) continue; // subdivision flag emoji
+          const decoded = [...match[0]].map(c => c.codePointAt(0) - 0xE0000).filter(n => n >= 0x20 && n < 0x7F).map(n => String.fromCharCode(n)).join('');
+          add('high', file, index + 1, 'hidden-unicode', `Hidden tag characters decoding to ${JSON.stringify(decoded.slice(0, 80))}`);
         }
+        for (const match of line.matchAll(bidi)) add('high', file, index + 1, 'hidden-unicode', `Bidirectional control ${code(match[0])}`);
+        const zero = [...line.matchAll(zeroWidth)].filter(match =>
+          !(match[0] === '\uFEFF' && index === 0 && match.index === 0) &&
+          !(match[0] === '\u200D' && emojiEnd.test(line.slice(0, match.index)) && emojiStart.test(line.slice(match.index + 1))));
+        // ponytail: 4+ per line is a guess at "could encode a payload"; lone ones are usually copy-paste or fence escapes.
+        if (zero.length) add(zero.length >= 4 ? 'high' : 'low', file, index + 1, 'hidden-unicode', `${zero.length} zero-width character(s), first ${code(zero[0][0])}`);
         for (const [rule, regex] of patterns) {
-          if (regex.test(line)) add(rule === 'ignore-previous' ? 'high' : 'med', file, index + 1, rule, `Suspicious pattern: ${rule}`);
+          const match = regex.exec(line);
+          if (!match) continue;
+          // A quoted phrase is usually a warning about injection, not an injection.
+          const quoted = rule === 'ignore-previous' && /["'`\u201C\u2018\u300C]\s*$/.test(line.slice(0, match.index));
+          add(rule !== 'ignore-previous' ? 'med' : quoted ? 'low' : 'high', file, index + 1, rule, `Suspicious pattern: ${rule}${quoted ? ' (quoted example)' : ''}`);
         }
       }
     }

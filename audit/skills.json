@@ -1,0 +1,3602 @@
+[
+ {
+  "source": "vercel-labs/skills",
+  "skillId": "find-skills",
+  "name": "find-skills",
+  "installs": 4335470
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "grill-me",
+  "name": "grill-me",
+  "installs": 1543272
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes-cli",
+  "name": "hyperframes-cli",
+  "installs": 1538380
+ },
+ {
+  "source": "vercel-labs/agent-browser",
+  "skillId": "agent-browser",
+  "name": "agent-browser",
+  "installs": 1505236
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes",
+  "name": "hyperframes",
+  "installs": 1501038
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "media-use",
+  "name": "media-use",
+  "installs": 1410809
+ },
+ {
+  "source": "designed-by-ai/skills",
+  "skillId": "design-mobile-apps",
+  "name": "design-mobile-apps",
+  "installs": 1391292
+ },
+ {
+  "source": "flowkit-labs/skills",
+  "skillId": "reddit-automation",
+  "name": "reddit-automation",
+  "installs": 1354814
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "grill-with-docs",
+  "name": "grill-with-docs",
+  "installs": 1320805
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes-registry",
+  "name": "hyperframes-registry",
+  "installs": 1287712
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "improve-codebase-architecture",
+  "name": "improve-codebase-architecture",
+  "installs": 1261336
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "tdd",
+  "name": "tdd",
+  "installs": 1234425
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "setup-matt-pocock-skills",
+  "name": "setup-matt-pocock-skills",
+  "installs": 1142333
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "handoff",
+  "name": "handoff",
+  "installs": 1131408
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "frontend-design",
+  "name": "frontend-design",
+  "installs": 1111793
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "grilling",
+  "name": "grilling",
+  "installs": 1098484
+ },
+ {
+  "source": "uizze.sh",
+  "skillId": "ui-taste",
+  "name": "ui-taste",
+  "installs": 1095673
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "prototype",
+  "name": "prototype",
+  "installs": 1073669
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "triage",
+  "name": "triage",
+  "installs": 1070473
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "ai-video-generation",
+  "name": "ai-video-generation",
+  "installs": 1019657
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "ai-image-generation",
+  "name": "ai-image-generation",
+  "installs": 1017772
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "twitter-automation",
+  "name": "twitter-automation",
+  "installs": 1017295
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "ai-avatar-video",
+  "name": "ai-avatar-video",
+  "installs": 1017057
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes-animation",
+  "name": "hyperframes-animation",
+  "installs": 1005473
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "domain-modeling",
+  "name": "domain-modeling",
+  "installs": 973355
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "codebase-design",
+  "name": "codebase-design",
+  "installs": 948322
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "teach",
+  "name": "teach",
+  "installs": 946154
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes-core",
+  "name": "hyperframes-core",
+  "installs": 931151
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "diagnosing-bugs",
+  "name": "diagnosing-bugs",
+  "installs": 926692
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes-creative",
+  "name": "hyperframes-creative",
+  "installs": 917202
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "ai-image-generation",
+  "name": "ai-image-generation",
+  "installs": 913222
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "ai-video-generation",
+  "name": "ai-video-generation",
+  "installs": 912708
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "ai-avatar-video",
+  "name": "ai-avatar-video",
+  "installs": 912581
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "twitter-automation",
+  "name": "twitter-automation",
+  "installs": 912454
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-doc",
+  "name": "lark-doc",
+  "installs": 896455
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-drive",
+  "name": "lark-drive",
+  "installs": 895643
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-shared",
+  "name": "lark-shared",
+  "installs": 895619
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-base",
+  "name": "lark-base",
+  "installs": 895551
+ },
+ {
+  "source": "vercel-labs/agent-skills",
+  "skillId": "vercel-react-best-practices",
+  "name": "vercel-react-best-practices",
+  "installs": 895064
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-im",
+  "name": "lark-im",
+  "installs": 894517
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-calendar",
+  "name": "lark-calendar",
+  "installs": 894079
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-wiki",
+  "name": "lark-wiki",
+  "installs": 894033
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-sheets",
+  "name": "lark-sheets",
+  "installs": 894024
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-approval",
+  "name": "lark-approval",
+  "installs": 893940
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-contact",
+  "name": "lark-contact",
+  "installs": 893100
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-task",
+  "name": "lark-task",
+  "installs": 892969
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-slides",
+  "name": "lark-slides",
+  "installs": 892817
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-mail",
+  "name": "lark-mail",
+  "installs": 892774
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-whiteboard",
+  "name": "lark-whiteboard",
+  "installs": 892630
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-event",
+  "name": "lark-event",
+  "installs": 892543
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-openapi-explorer",
+  "name": "lark-openapi-explorer",
+  "installs": 892296
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-attendance",
+  "name": "lark-attendance",
+  "installs": 892178
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-skill-maker",
+  "name": "lark-skill-maker",
+  "installs": 891795
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-workflow-meeting-summary",
+  "name": "lark-workflow-meeting-summary",
+  "installs": 891633
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-workflow-standup-report",
+  "name": "lark-workflow-standup-report",
+  "installs": 891344
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-minutes",
+  "name": "lark-minutes",
+  "installs": 890025
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-vc",
+  "name": "lark-vc",
+  "installs": 889270
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "code-review",
+  "name": "code-review",
+  "installs": 886908
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-okr",
+  "name": "lark-okr",
+  "installs": 873133
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "implement",
+  "name": "implement",
+  "installs": 860079
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-markdown",
+  "name": "lark-markdown",
+  "installs": 859066
+ },
+ {
+  "source": "vercel-labs/agent-skills",
+  "skillId": "web-design-guidelines",
+  "name": "web-design-guidelines",
+  "installs": 856171
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "ask-matt",
+  "name": "ask-matt",
+  "installs": 845945
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-vc-agent",
+  "name": "lark-vc-agent",
+  "installs": 833881
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "ai-image-generation",
+  "name": "ai-image-generation",
+  "installs": 817675
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "ai-video-generation",
+  "name": "ai-video-generation",
+  "installs": 817558
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "twitter-automation",
+  "name": "twitter-automation",
+  "installs": 817476
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "ai-avatar-video",
+  "name": "ai-avatar-video",
+  "installs": 817186
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-best-practices",
+  "name": "remotion-best-practices",
+  "installs": 808539
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "wayfinder",
+  "name": "wayfinder",
+  "installs": 805248
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-apps",
+  "name": "lark-apps",
+  "installs": 804276
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "to-spec",
+  "name": "to-spec",
+  "installs": 802740
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "research",
+  "name": "research",
+  "installs": 799584
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "to-tickets",
+  "name": "to-tickets",
+  "installs": 798889
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "design-taste-frontend",
+  "name": "design-taste-frontend",
+  "installs": 769685
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes-keyframes",
+  "name": "hyperframes-keyframes",
+  "installs": 754881
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "ai-avatar-video",
+  "name": "ai-avatar-video",
+  "installs": 714654
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "twitter-automation",
+  "name": "twitter-automation",
+  "installs": 714212
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "ai-video-generation",
+  "name": "ai-video-generation",
+  "installs": 714093
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "ai-image-generation",
+  "name": "ai-image-generation",
+  "installs": 714054
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "microsoft-foundry",
+  "name": "microsoft-foundry",
+  "installs": 702909
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-diagnostics",
+  "name": "azure-diagnostics",
+  "installs": 693620
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-prepare",
+  "name": "azure-prepare",
+  "installs": 692720
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-ai",
+  "name": "azure-ai",
+  "installs": 692000
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-deploy",
+  "name": "azure-deploy",
+  "installs": 691680
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-validate",
+  "name": "azure-validate",
+  "installs": 691370
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-storage",
+  "name": "azure-storage",
+  "installs": 690507
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-compliance",
+  "name": "azure-compliance",
+  "installs": 690110
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "appinsights-instrumentation",
+  "name": "appinsights-instrumentation",
+  "installs": 689888
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-resource-lookup",
+  "name": "azure-resource-lookup",
+  "installs": 689844
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-resource-visualizer",
+  "name": "azure-resource-visualizer",
+  "installs": 689799
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "entra-app-registration",
+  "name": "entra-app-registration",
+  "installs": 689773
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-kusto",
+  "name": "azure-kusto",
+  "installs": 689502
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-aigateway",
+  "name": "azure-aigateway",
+  "installs": 689101
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-messaging",
+  "name": "azure-messaging",
+  "installs": 680754
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-note",
+  "name": "lark-note",
+  "installs": 674150
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes-audio",
+  "name": "hyperframes-audio",
+  "installs": 663952
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "general-video",
+  "name": "general-video",
+  "installs": 661838
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-compute",
+  "name": "azure-compute",
+  "installs": 645587
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-cloud-migrate",
+  "name": "azure-cloud-migrate",
+  "installs": 638360
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "wizard",
+  "name": "wizard",
+  "installs": 629885
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman",
+  "name": "caveman",
+  "installs": 624338
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "remotion-to-hyperframes",
+  "name": "remotion-to-hyperframes",
+  "installs": 608268
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-quotas",
+  "name": "azure-quotas",
+  "installs": 594130
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "ai-image-generation",
+  "name": "ai-image-generation",
+  "installs": 591820
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "ai-avatar-video",
+  "name": "ai-avatar-video",
+  "installs": 591760
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "ai-video-generation",
+  "name": "ai-video-generation",
+  "installs": 591747
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "twitter-automation",
+  "name": "twitter-automation",
+  "installs": 591688
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-upgrade",
+  "name": "azure-upgrade",
+  "installs": 587276
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "to-questionnaire",
+  "name": "to-questionnaire",
+  "installs": 574675
+ },
+ {
+  "source": "google/agents-cli",
+  "skillId": "google-agents-cli-adk-code",
+  "name": "google-agents-cli-adk-code",
+  "installs": 570265
+ },
+ {
+  "source": "google/agents-cli",
+  "skillId": "google-agents-cli-deploy",
+  "name": "google-agents-cli-deploy",
+  "installs": 569489
+ },
+ {
+  "source": "google/agents-cli",
+  "skillId": "google-agents-cli-publish",
+  "name": "google-agents-cli-publish",
+  "installs": 569279
+ },
+ {
+  "source": "google/agents-cli",
+  "skillId": "google-agents-cli-workflow",
+  "name": "google-agents-cli-workflow",
+  "installs": 568330
+ },
+ {
+  "source": "google/agents-cli",
+  "skillId": "google-agents-cli-eval",
+  "name": "google-agents-cli-eval",
+  "installs": 568325
+ },
+ {
+  "source": "google/agents-cli",
+  "skillId": "google-agents-cli-scaffold",
+  "name": "google-agents-cli-scaffold",
+  "installs": 568197
+ },
+ {
+  "source": "google/agents-cli",
+  "skillId": "google-agents-cli-observability",
+  "name": "google-agents-cli-observability",
+  "installs": 568165
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-enterprise-infra-planner",
+  "name": "azure-enterprise-infra-planner",
+  "installs": 563907
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "ai-image-generation",
+  "name": "ai-image-generation",
+  "installs": 559550
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "twitter-automation",
+  "name": "twitter-automation",
+  "installs": 559448
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "ai-avatar-video",
+  "name": "ai-avatar-video",
+  "installs": 559408
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "ai-video-generation",
+  "name": "ai-video-generation",
+  "installs": 559201
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-kubernetes",
+  "name": "azure-kubernetes",
+  "installs": 558263
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "git-guardrails-claude-code",
+  "name": "git-guardrails-claude-code",
+  "installs": 556763
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "writing-for-agents",
+  "name": "writing-for-agents",
+  "installs": 552112
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "resolving-merge-conflicts",
+  "name": "resolving-merge-conflicts",
+  "installs": 551223
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "setup-pre-commit",
+  "name": "setup-pre-commit",
+  "installs": 546020
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "product-launch-video",
+  "name": "product-launch-video",
+  "installs": 539400
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "writing-beats",
+  "name": "writing-beats",
+  "installs": 539198
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "writing-shape",
+  "name": "writing-shape",
+  "installs": 538831
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "writing-fragments",
+  "name": "writing-fragments",
+  "installs": 538015
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "scaffold-exercises",
+  "name": "scaffold-exercises",
+  "installs": 536077
+ },
+ {
+  "source": "gencraft-labs/skills",
+  "skillId": "ai-music",
+  "name": "ai-music",
+  "installs": 533342
+ },
+ {
+  "source": "gencraft-labs/skills",
+  "skillId": "video-edit",
+  "name": "video-edit",
+  "installs": 532714
+ },
+ {
+  "source": "gencraft-labs/skills",
+  "skillId": "ai-video-generation",
+  "name": "ai-video-generation",
+  "installs": 532648
+ },
+ {
+  "source": "gencraft-labs/skills",
+  "skillId": "ai-image-generation",
+  "name": "ai-image-generation",
+  "installs": 532247
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "migrate-to-shoehorn",
+  "name": "migrate-to-shoehorn",
+  "installs": 531975
+ },
+ {
+  "source": "gencraft-labs/skills",
+  "skillId": "image-to-video",
+  "name": "image-to-video",
+  "installs": 531821
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "wait-what",
+  "name": "wait-what",
+  "installs": 525822
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "faceless-explainer",
+  "name": "faceless-explainer",
+  "installs": 522109
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "motion-graphics",
+  "name": "motion-graphics",
+  "installs": 514414
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "slideshow",
+  "name": "slideshow",
+  "installs": 513754
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "loop-me",
+  "name": "loop-me",
+  "installs": 496827
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "paper-context-resolver",
+  "name": "paper-context-resolver",
+  "installs": 496323
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "repo-intake-and-plan",
+  "name": "repo-intake-and-plan",
+  "installs": 495502
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "minimal-run-and-audit",
+  "name": "minimal-run-and-audit",
+  "installs": 495430
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "env-and-assets-bootstrap",
+  "name": "env-and-assets-bootstrap",
+  "installs": 495303
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-doc",
+  "name": "lark-doc",
+  "installs": 493743
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-base",
+  "name": "lark-base",
+  "installs": 490979
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-shared",
+  "name": "lark-shared",
+  "installs": 490094
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-drive",
+  "name": "lark-drive",
+  "installs": 487792
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-im",
+  "name": "lark-im",
+  "installs": 487761
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-sheets",
+  "name": "lark-sheets",
+  "installs": 487029
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-wiki",
+  "name": "lark-wiki",
+  "installs": 486515
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-whiteboard",
+  "name": "lark-whiteboard",
+  "installs": 484797
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-task",
+  "name": "lark-task",
+  "installs": 484724
+ },
+ {
+  "source": "supabase/agent-skills",
+  "skillId": "supabase-postgres-best-practices",
+  "name": "supabase-postgres-best-practices",
+  "installs": 483784
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-calendar",
+  "name": "lark-calendar",
+  "installs": 483721
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "airunway-aks-setup",
+  "name": "airunway-aks-setup",
+  "installs": 483442
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-mail",
+  "name": "lark-mail",
+  "installs": 482073
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-event",
+  "name": "lark-event",
+  "installs": 481417
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-contact",
+  "name": "lark-contact",
+  "installs": 481163
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-workflow-meeting-summary",
+  "name": "lark-workflow-meeting-summary",
+  "installs": 480330
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-workflow-standup-report",
+  "name": "lark-workflow-standup-report",
+  "installs": 479488
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-openapi-explorer",
+  "name": "lark-openapi-explorer",
+  "installs": 479326
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-skill-maker",
+  "name": "lark-skill-maker",
+  "installs": 478973
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "claude-handoff",
+  "name": "claude-handoff",
+  "installs": 478622
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-minutes",
+  "name": "lark-minutes",
+  "installs": 478605
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-vc",
+  "name": "lark-vc",
+  "installs": 478392
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "entra-agent-id",
+  "name": "entra-agent-id",
+  "installs": 459546
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "high-end-visual-design",
+  "name": "high-end-visual-design",
+  "installs": 458894
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "redesign-existing-projects",
+  "name": "redesign-existing-projects",
+  "installs": 458776
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-approval",
+  "name": "lark-approval",
+  "installs": 454932
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "embedded-captions",
+  "name": "embedded-captions",
+  "installs": 454010
+ },
+ {
+  "source": "vercel-labs/agent-skills",
+  "skillId": "vercel-composition-patterns",
+  "name": "vercel-composition-patterns",
+  "installs": 452084
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes-studio",
+  "name": "hyperframes-studio",
+  "installs": 451722
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "pr-to-video",
+  "name": "pr-to-video",
+  "installs": 449335
+ },
+ {
+  "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "skillId": "ui-ux-pro-max",
+  "name": "ui-ux-pro-max",
+  "installs": 448973
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "video-edit",
+  "name": "video-edit",
+  "installs": 447762
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "image-to-video",
+  "name": "image-to-video",
+  "installs": 445942
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "nano-banana-2",
+  "name": "nano-banana-2",
+  "installs": 445657
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "image-edit",
+  "name": "image-edit",
+  "installs": 445190
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "nano-banana-edit",
+  "name": "nano-banana-edit",
+  "installs": 445002
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "flux-kontext",
+  "name": "flux-kontext",
+  "installs": 444796
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "wan-2-7",
+  "name": "wan-2-7",
+  "installs": 444226
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "gpt-image-edit",
+  "name": "gpt-image-edit",
+  "installs": 444082
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "seedance-v2",
+  "name": "seedance-v2",
+  "installs": 444079
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "happyhorse-1-0",
+  "name": "happyhorse-1-0",
+  "installs": 443986
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "flux-2-klein",
+  "name": "flux-2-klein",
+  "installs": 443823
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "emil-design-eng",
+  "name": "emil-design-eng",
+  "installs": 443156
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-slides",
+  "name": "lark-slides",
+  "installs": 435534
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-commit",
+  "name": "caveman-commit",
+  "installs": 435159
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-compress",
+  "name": "caveman-compress",
+  "installs": 433049
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-attendance",
+  "name": "lark-attendance",
+  "installs": 432483
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-review",
+  "name": "caveman-review",
+  "installs": 431121
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "skill-creator",
+  "name": "skill-creator",
+  "installs": 430990
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "brainstorming",
+  "name": "brainstorming",
+  "installs": 426936
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-client-api",
+  "name": "prisma-client-api",
+  "installs": 425601
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "minimalist-ui",
+  "name": "minimalist-ui",
+  "installs": 425166
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "figma",
+  "name": "figma",
+  "installs": 425110
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-database-setup",
+  "name": "prisma-database-setup",
+  "installs": 423777
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "setup-ts-deep-modules",
+  "name": "setup-ts-deep-modules",
+  "installs": 423775
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-reliability",
+  "name": "azure-reliability",
+  "installs": 422892
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-cli",
+  "name": "prisma-cli",
+  "installs": 422605
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-help",
+  "name": "caveman-help",
+  "installs": 421680
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "kling-3-0",
+  "name": "kling-3-0",
+  "installs": 421059
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "music-to-video",
+  "name": "music-to-video",
+  "installs": 419374
+ },
+ {
+  "source": "uizze.sh",
+  "skillId": "ios-design",
+  "name": "ios-design",
+  "installs": 418992
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-okr",
+  "name": "lark-okr",
+  "installs": 418649
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-postgres",
+  "name": "prisma-postgres",
+  "installs": 415642
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-postgres-setup",
+  "name": "prisma-postgres-setup",
+  "installs": 410265
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-driver-adapter-implementation",
+  "name": "prisma-driver-adapter-implementation",
+  "installs": 410189
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-upgrade-v7",
+  "name": "prisma-upgrade-v7",
+  "installs": 409984
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "codex-pet",
+  "name": "codex-pet",
+  "installs": 409416
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "talking-head-recut",
+  "name": "talking-head-recut",
+  "installs": 408029
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-compute",
+  "name": "prisma-compute",
+  "installs": 405111
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "impeccable",
+  "name": "impeccable",
+  "installs": 404344
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-mongodb-upgrade",
+  "name": "prisma-mongodb-upgrade",
+  "installs": 403589
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "full-output-enforcement",
+  "name": "full-output-enforcement",
+  "installs": 401099
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-markdown",
+  "name": "lark-markdown",
+  "installs": 400239
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "gpt-taste",
+  "name": "gpt-taste",
+  "installs": 399552
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "industrial-brutalist-ui",
+  "name": "industrial-brutalist-ui",
+  "installs": 396963
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-rbac",
+  "name": "azure-rbac",
+  "installs": 396677
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "stitch-design-taste",
+  "name": "stitch-design-taste",
+  "installs": 394918
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "ai-image-generation",
+  "name": "ai-image-generation",
+  "installs": 390995
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "ai-video-generation",
+  "name": "ai-video-generation",
+  "installs": 390855
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "brandkit",
+  "name": "brandkit",
+  "installs": 390757
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "runcomfy-cli",
+  "name": "runcomfy-cli",
+  "installs": 387996
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "ai-avatar-video",
+  "name": "ai-avatar-video",
+  "installs": 387792
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "face-swap",
+  "name": "face-swap",
+  "installs": 387658
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "video-inpainting",
+  "name": "video-inpainting",
+  "installs": 386014
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "image-to-code",
+  "name": "image-to-code",
+  "installs": 385957
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "image-inpainting",
+  "name": "image-inpainting",
+  "installs": 385537
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "controlnet-pose",
+  "name": "controlnet-pose",
+  "installs": 385268
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "lipsync",
+  "name": "lipsync",
+  "installs": 385255
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "video-extend",
+  "name": "video-extend",
+  "installs": 384845
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "elevenlabs-music-generation",
+  "name": "elevenlabs-music-generation",
+  "installs": 384774
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "image-outpainting",
+  "name": "image-outpainting",
+  "installs": 384571
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "relight",
+  "name": "relight",
+  "installs": 384473
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "video-outpainting",
+  "name": "video-outpainting",
+  "installs": 384381
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "imagegen-frontend-web",
+  "name": "imagegen-frontend-web",
+  "installs": 380157
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-stats",
+  "name": "caveman-stats",
+  "installs": 378113
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "cavecrew",
+  "name": "cavecrew",
+  "installs": 377597
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "ai-music",
+  "name": "ai-music",
+  "installs": 376878
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "ace-step",
+  "name": "ace-step",
+  "installs": 376260
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "imagegen-frontend-mobile",
+  "name": "imagegen-frontend-mobile",
+  "installs": 373804
+ },
+ {
+  "source": "uizze/uizze",
+  "skillId": "uizze-ui",
+  "name": "uizze-ui",
+  "installs": 367462
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-vc-agent",
+  "name": "lark-vc-agent",
+  "installs": 366698
+ },
+ {
+  "source": "supabase/agent-skills",
+  "skillId": "supabase",
+  "name": "supabase",
+  "installs": 364105
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-cost",
+  "name": "azure-cost",
+  "installs": 362649
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "implement-spec",
+  "name": "implement-spec",
+  "installs": 361834
+ },
+ {
+  "source": "stablyai/orca",
+  "skillId": "orca-cli",
+  "name": "orca-cli",
+  "installs": 361506
+ },
+ {
+  "source": "stablyai/orca",
+  "skillId": "orchestration",
+  "name": "orchestration",
+  "installs": 358130
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "ai-research-explore",
+  "name": "ai-research-explore",
+  "installs": 356725
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "analyze-project",
+  "name": "analyze-project",
+  "installs": 356581
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "ai-research-reproduction",
+  "name": "ai-research-reproduction",
+  "installs": 356351
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "safe-debug",
+  "name": "safe-debug",
+  "installs": 356018
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "explore-code",
+  "name": "explore-code",
+  "installs": 355991
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "run-train",
+  "name": "run-train",
+  "installs": 355741
+ },
+ {
+  "source": "lllllllama/rigorpilot-skills",
+  "skillId": "explore-run",
+  "name": "explore-run",
+  "installs": 355714
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "retro",
+  "name": "retro",
+  "installs": 355424
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-hosted-copilot-sdk",
+  "name": "azure-hosted-copilot-sdk",
+  "installs": 355277
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "python-appservice-deploy",
+  "name": "python-appservice-deploy",
+  "installs": 353125
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "to-prd",
+  "name": "to-prd",
+  "installs": 351592
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "to-issues",
+  "name": "to-issues",
+  "installs": 339112
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "systematic-debugging",
+  "name": "systematic-debugging",
+  "installs": 330958
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-apps",
+  "name": "lark-apps",
+  "installs": 330558
+ },
+ {
+  "source": "leonxlnx/taste-skill",
+  "skillId": "design-taste-frontend-v1",
+  "name": "design-taste-frontend-v1",
+  "installs": 330392
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-render",
+  "name": "remotion-render",
+  "installs": 329610
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-create",
+  "name": "remotion-create",
+  "installs": 327476
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-captions",
+  "name": "remotion-captions",
+  "installs": 325868
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-markup",
+  "name": "remotion-markup",
+  "installs": 320313
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-interactivity",
+  "name": "remotion-interactivity",
+  "installs": 313719
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-docs",
+  "name": "remotion-docs",
+  "installs": 311929
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-saas",
+  "name": "remotion-saas",
+  "installs": 311303
+ },
+ {
+  "source": "neondatabase/agent-skills",
+  "skillId": "neon-postgres",
+  "name": "neon-postgres",
+  "installs": 309941
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "writing-great-skills",
+  "name": "writing-great-skills",
+  "installs": 306560
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "review-animations",
+  "name": "review-animations",
+  "installs": 304239
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-upgrade",
+  "name": "remotion-upgrade",
+  "installs": 302816
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "writing-plans",
+  "name": "writing-plans",
+  "installs": 301914
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-multimedia",
+  "name": "remotion-multimedia",
+  "installs": 298760
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-maps",
+  "name": "remotion-maps",
+  "installs": 296176
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "apple-design",
+  "name": "apple-design",
+  "installs": 295454
+ },
+ {
+  "source": "open.feishu.cn",
+  "skillId": "lark-meeting",
+  "name": "lark-meeting",
+  "installs": 292982
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-studio",
+  "name": "remotion-studio",
+  "installs": 289712
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "using-superpowers",
+  "name": "using-superpowers",
+  "installs": 286361
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "animation-vocabulary",
+  "name": "animation-vocabulary",
+  "installs": 282659
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "requesting-code-review",
+  "name": "requesting-code-review",
+  "installs": 279573
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "test-driven-development",
+  "name": "test-driven-development",
+  "installs": 278154
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-app-onboard",
+  "name": "azure-app-onboard",
+  "installs": 277677
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-app-onboard-prereq",
+  "name": "azure-app-onboard-prereq",
+  "installs": 277470
+ },
+ {
+  "source": "vercel-labs/agent-skills",
+  "skillId": "vercel-react-native-skills",
+  "name": "vercel-react-native-skills",
+  "installs": 275621
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "verification-before-completion",
+  "name": "verification-before-completion",
+  "installs": 274321
+ },
+ {
+  "source": "shadcn/ui",
+  "skillId": "shadcn",
+  "name": "shadcn",
+  "installs": 271099
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "improve-animations",
+  "name": "improve-animations",
+  "installs": 269751
+ },
+ {
+  "source": "neondatabase/agent-skills",
+  "skillId": "neon",
+  "name": "neon",
+  "installs": 262849
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "executing-plans",
+  "name": "executing-plans",
+  "installs": 260398
+ },
+ {
+  "source": "larksuite/cli",
+  "skillId": "lark-note",
+  "name": "lark-note",
+  "installs": 256723
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "subagent-driven-development",
+  "name": "subagent-driven-development",
+  "installs": 254808
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "pptx",
+  "name": "pptx",
+  "installs": 254166
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "copywriting",
+  "name": "copywriting",
+  "installs": 253625
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "seo-audit",
+  "name": "seo-audit",
+  "installs": 253376
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "find-animation-opportunities",
+  "name": "find-animation-opportunities",
+  "installs": 252789
+ },
+ {
+  "source": "wind-alice/alicemarket",
+  "skillId": "wind-mcp-skill",
+  "name": "wind-mcp-skill",
+  "installs": 247300
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "pr",
+  "name": "pr",
+  "installs": 245561
+ },
+ {
+  "source": "scrapegraphai/just-scrape",
+  "skillId": "just-scrape",
+  "name": "just-scrape",
+  "installs": 245016
+ },
+ {
+  "source": "higgsfield-ai/skills",
+  "skillId": "higgsfield-generate",
+  "name": "higgsfield-generate",
+  "installs": 243900
+ },
+ {
+  "source": "stablyai/orca",
+  "skillId": "computer-use",
+  "name": "computer-use",
+  "installs": 241636
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "receiving-code-review",
+  "name": "receiving-code-review",
+  "installs": 237973
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "dispatching-parallel-agents",
+  "name": "dispatching-parallel-agents",
+  "installs": 234085
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "writing-skills",
+  "name": "writing-skills",
+  "installs": 233933
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "using-git-worktrees",
+  "name": "using-git-worktrees",
+  "installs": 232994
+ },
+ {
+  "source": "obra/superpowers",
+  "skillId": "finishing-a-development-branch",
+  "name": "finishing-a-development-branch",
+  "installs": 230463
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "pdf",
+  "name": "pdf",
+  "installs": 228281
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "diagnose",
+  "name": "diagnose",
+  "installs": 227598
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "pick-ui-library",
+  "name": "pick-ui-library",
+  "installs": 227257
+ },
+ {
+  "source": "higgsfield-ai/skills",
+  "skillId": "higgsfield-product-photoshoot",
+  "name": "higgsfield-product-photoshoot",
+  "installs": 221417
+ },
+ {
+  "source": "higgsfield-ai/skills",
+  "skillId": "higgsfield-soul-id",
+  "name": "higgsfield-soul-id",
+  "installs": 220202
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "write-a-skill",
+  "name": "write-a-skill",
+  "installs": 219748
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "animate",
+  "name": "animate",
+  "installs": 219556
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "zoom-out",
+  "name": "zoom-out",
+  "installs": 219153
+ },
+ {
+  "source": "higgsfield-ai/skills",
+  "skillId": "higgsfield-marketplace-cards",
+  "name": "higgsfield-marketplace-cards",
+  "installs": 218048
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "docx",
+  "name": "docx",
+  "installs": 217558
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "prototype",
+  "name": "prototype",
+  "installs": 215763
+ },
+ {
+  "source": "microsoft/playwright-cli",
+  "skillId": "playwright-cli",
+  "name": "playwright-cli",
+  "installs": 215280
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "caveman",
+  "name": "caveman",
+  "installs": 214565
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "design-an-interface",
+  "name": "design-an-interface",
+  "installs": 208848
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "webapp-testing",
+  "name": "webapp-testing",
+  "installs": 203976
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "request-refactor-plan",
+  "name": "request-refactor-plan",
+  "installs": 202443
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "qa",
+  "name": "qa",
+  "installs": 198686
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "xlsx",
+  "name": "xlsx",
+  "installs": 197850
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "ubiquitous-language",
+  "name": "ubiquitous-language",
+  "installs": 197207
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "obsidian-vault",
+  "name": "obsidian-vault",
+  "installs": 195522
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "agent-browser",
+  "name": "agent-browser",
+  "installs": 192109
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "edit-article",
+  "name": "edit-article",
+  "installs": 191787
+ },
+ {
+  "source": "tt-a1i/archify",
+  "skillId": "archify",
+  "name": "archify",
+  "installs": 191695
+ },
+ {
+  "source": "vercel-labs/agent-skills",
+  "skillId": "deploy-to-vercel",
+  "name": "deploy-to-vercel",
+  "installs": 191066
+ },
+ {
+  "source": "sentry/dev",
+  "skillId": "sentry-cli",
+  "name": "sentry-cli",
+  "installs": 190673
+ },
+ {
+  "source": "vercel-labs/agent-skills",
+  "skillId": "vercel-react-view-transitions",
+  "name": "vercel-react-view-transitions",
+  "installs": 189235
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-basics",
+  "name": "firebase-basics",
+  "installs": 184770
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-auth-basics",
+  "name": "firebase-auth-basics",
+  "installs": 183667
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "ask-sonner",
+  "name": "ask-sonner",
+  "installs": 180225
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-hosting-basics",
+  "name": "firebase-hosting-basics",
+  "installs": 178999
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-app-hosting-basics",
+  "name": "firebase-app-hosting-basics",
+  "installs": 178351
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "animate-expo",
+  "name": "animate-expo",
+  "installs": 177953
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-data-connect",
+  "name": "firebase-data-connect",
+  "installs": 177398
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "marketing-psychology",
+  "name": "marketing-psychology",
+  "installs": 176701
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "content-strategy",
+  "name": "content-strategy",
+  "installs": 176674
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "agent-browser",
+  "name": "agent-browser",
+  "installs": 171293
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "discover-azure-skills",
+  "name": "discover-azure-skills",
+  "installs": 168872
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "ai-seo",
+  "name": "ai-seo",
+  "installs": 163889
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "copy-editing",
+  "name": "copy-editing",
+  "installs": 161118
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "programmatic-seo",
+  "name": "programmatic-seo",
+  "installs": 160773
+ },
+ {
+  "source": "higgsfield-ai/skills",
+  "skillId": "higgsfield-websites",
+  "name": "higgsfield-websites",
+  "installs": 159896
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "write-swift",
+  "name": "write-swift",
+  "installs": 158235
+ },
+ {
+  "source": "antibrow/anti-detect-browser-skills",
+  "skillId": "anti-detect-browser",
+  "name": "anti-detect-browser",
+  "installs": 158113
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "marketing-ideas",
+  "name": "marketing-ideas",
+  "installs": 157031
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "cloudflare",
+  "name": "cloudflare",
+  "installs": 155858
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-cost-optimization",
+  "name": "azure-cost-optimization",
+  "installs": 155407
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "agent-browser",
+  "name": "agent-browser",
+  "installs": 153887
+ },
+ {
+  "source": "vercel-labs/agent-skills",
+  "skillId": "vercel-cli-with-tokens",
+  "name": "vercel-cli-with-tokens",
+  "installs": 153514
+ },
+ {
+  "source": "higgsfield-ai/skills",
+  "skillId": "higgsfield-video-explainer",
+  "name": "higgsfield-video-explainer",
+  "installs": 148299
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-security-rules-auditor",
+  "name": "firebase-security-rules-auditor",
+  "installs": 147670
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "wrangler",
+  "name": "wrangler",
+  "installs": 146375
+ },
+ {
+  "source": "shadcn-ui/ui",
+  "skillId": "shadcn",
+  "name": "shadcn",
+  "installs": 146308
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "ad-creative",
+  "name": "ad-creative",
+  "installs": 146016
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-ai-logic-basics",
+  "name": "firebase-ai-logic-basics",
+  "installs": 144379
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-firestore",
+  "name": "firebase-firestore",
+  "installs": 144322
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "workers-best-practices",
+  "name": "workers-best-practices",
+  "installs": 143441
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "hyperframes-media",
+  "name": "hyperframes-media",
+  "installs": 141731
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "mcp-builder",
+  "name": "mcp-builder",
+  "installs": 141126
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-crashlytics",
+  "name": "firebase-crashlytics",
+  "installs": 140352
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "xcode-project-setup",
+  "name": "xcode-project-setup",
+  "installs": 139336
+ },
+ {
+  "source": "uizze/uizze",
+  "skillId": "image-to-ui",
+  "name": "image-to-ui",
+  "installs": 138676
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "cold-email",
+  "name": "cold-email",
+  "installs": 137995
+ },
+ {
+  "source": "convex/agent-skills",
+  "skillId": "convex-quickstart",
+  "name": "convex-quickstart",
+  "installs": 137608
+ },
+ {
+  "source": "convex/agent-skills",
+  "skillId": "convex-create-component",
+  "name": "convex-create-component",
+  "installs": 137408
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "agent-browser",
+  "name": "agent-browser",
+  "installs": 134810
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "site-architecture",
+  "name": "site-architecture",
+  "installs": 133214
+ },
+ {
+  "source": "better-auth/skills",
+  "skillId": "better-auth-best-practices",
+  "name": "better-auth-best-practices",
+  "installs": 131968
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "canvas-design",
+  "name": "canvas-design",
+  "installs": 131635
+ },
+ {
+  "source": "arvindrk/extract-design-system",
+  "skillId": "extract-design-system",
+  "name": "extract-design-system",
+  "installs": 131514
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "chief-of-staff",
+  "name": "chief-of-staff",
+  "installs": 130268
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "churn-prevention",
+  "name": "churn-prevention",
+  "installs": 130171
+ },
+ {
+  "source": "firebase/agent-skills",
+  "skillId": "firebase-remote-config-basics",
+  "name": "firebase-remote-config-basics",
+  "installs": 129875
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "mobile-native",
+  "name": "mobile-native",
+  "installs": 129479
+ },
+ {
+  "source": "vercel-labs/agent-skills",
+  "skillId": "vercel-optimize",
+  "name": "vercel-optimize",
+  "installs": 129313
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "web-search",
+  "name": "web-search",
+  "installs": 128624
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "sales-enablement",
+  "name": "sales-enablement",
+  "installs": 128414
+ },
+ {
+  "source": "dietrichgebert/ponytail",
+  "skillId": "ponytail",
+  "name": "ponytail",
+  "installs": 128330
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "remotion-render",
+  "name": "remotion-render",
+  "installs": 128197
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "infsh-cli",
+  "name": "infsh-cli",
+  "installs": 128170
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "agent-tools",
+  "name": "agent-tools",
+  "installs": 128146
+ },
+ {
+  "source": "101-skills/superpowers",
+  "skillId": "python-executor",
+  "name": "python-executor",
+  "installs": 128146
+ },
+ {
+  "source": "antibrow/anti-detect-browser-skills",
+  "skillId": "browser-mcp-agent",
+  "name": "browser-mcp-agent",
+  "installs": 127570
+ },
+ {
+  "source": "antibrow/anti-detect-browser-skills",
+  "skillId": "multi-account-isolation",
+  "name": "multi-account-isolation",
+  "installs": 127564
+ },
+ {
+  "source": "higgsfield-ai/skills",
+  "skillId": "higgsfield-youtube-thumbnail",
+  "name": "higgsfield-youtube-thumbnail",
+  "installs": 126718
+ },
+ {
+  "source": "higgsfield-ai/skills",
+  "skillId": "higgsfield-brandkit",
+  "name": "higgsfield-brandkit",
+  "installs": 126438
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "durable-objects",
+  "name": "durable-objects",
+  "installs": 126185
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "web-perf",
+  "name": "web-perf",
+  "installs": 126127
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "customer-research",
+  "name": "customer-research",
+  "installs": 125887
+ },
+ {
+  "source": "autonnel/autonnel-skills",
+  "skillId": "landing-page-conversion-audit",
+  "name": "landing-page-conversion-audit",
+  "installs": 125847
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-explore",
+  "name": "caveman-explore",
+  "installs": 125830
+ },
+ {
+  "source": "vercel-labs/agent-skills",
+  "skillId": "writing-guidelines",
+  "name": "writing-guidelines",
+  "installs": 125790
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-learn",
+  "name": "caveman-learn",
+  "installs": 124885
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "safe-refactor",
+  "name": "safe-refactor",
+  "installs": 124647
+ },
+ {
+  "source": "autonnel/autonnel-skills",
+  "skillId": "sales-funnel-blueprint",
+  "name": "sales-funnel-blueprint",
+  "installs": 124029
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-optimize",
+  "name": "caveman-optimize",
+  "installs": 123863
+ },
+ {
+  "source": "autonnel/autonnel-skills",
+  "skillId": "server-side-conversion-tracking",
+  "name": "server-side-conversion-tracking",
+  "installs": 123747
+ },
+ {
+  "source": "autonnel/autonnel-skills",
+  "skillId": "post-purchase-upsell-flow",
+  "name": "post-purchase-upsell-flow",
+  "installs": 123718
+ },
+ {
+  "source": "autonnel/autonnel-skills",
+  "skillId": "funnel-platform-picker",
+  "name": "funnel-platform-picker",
+  "installs": 123685
+ },
+ {
+  "source": "autonnel/autonnel-skills",
+  "skillId": "self-hosted-funnel-launch",
+  "name": "self-hosted-funnel-launch",
+  "installs": 123590
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "investigate-first",
+  "name": "investigate-first",
+  "installs": 123547
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "verify-and-stop",
+  "name": "verify-and-stop",
+  "installs": 122998
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "surgical-patch",
+  "name": "surgical-patch",
+  "installs": 122843
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "lead-magnets",
+  "name": "lead-magnets",
+  "installs": 122698
+ },
+ {
+  "source": "liarjsdev/liarjs-skills",
+  "skillId": "browser-fingerprint-audit",
+  "name": "browser-fingerprint-audit",
+  "installs": 122617
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "revops",
+  "name": "revops",
+  "installs": 122613
+ },
+ {
+  "source": "liarjsdev/liarjs-skills",
+  "skillId": "playwright-stealth-verify",
+  "name": "playwright-stealth-verify",
+  "installs": 122589
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "lean-build",
+  "name": "lean-build",
+  "installs": 122518
+ },
+ {
+  "source": "liarjsdev/liarjs-skills",
+  "skillId": "fingerprint-ci-gate",
+  "name": "fingerprint-ci-gate",
+  "installs": 122489
+ },
+ {
+  "source": "liarjsdev/liarjs-skills",
+  "skillId": "fingerprint-failure-triage",
+  "name": "fingerprint-failure-triage",
+  "installs": 122478
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-evidence-review",
+  "name": "caveman-evidence-review",
+  "installs": 122409
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-discover",
+  "name": "caveman-discover",
+  "installs": 122341
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-manage",
+  "name": "caveman-manage",
+  "installs": 122094
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "migration",
+  "name": "migration",
+  "installs": 121759
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "agents-sdk",
+  "name": "agents-sdk",
+  "installs": 121633
+ },
+ {
+  "source": "juliusbrussee/caveman",
+  "skillId": "caveman-setup",
+  "name": "caveman-setup",
+  "installs": 121369
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "brand-guidelines",
+  "name": "brand-guidelines",
+  "installs": 119101
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "web-artifacts-builder",
+  "name": "web-artifacts-builder",
+  "installs": 119009
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "cloudflare-email-service",
+  "name": "cloudflare-email-service",
+  "installs": 117100
+ },
+ {
+  "source": "convex/agent-skills",
+  "skillId": "convex",
+  "name": "convex",
+  "installs": 114632
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "web-search",
+  "name": "web-search",
+  "installs": 114163
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "agent-tools",
+  "name": "agent-tools",
+  "installs": 114118
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "remotion-render",
+  "name": "remotion-render",
+  "installs": 114113
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "python-executor",
+  "name": "python-executor",
+  "installs": 114102
+ },
+ {
+  "source": "magentosh/superpowers",
+  "skillId": "infsh-cli",
+  "name": "infsh-cli",
+  "installs": 113948
+ },
+ {
+  "source": "2dmurali/review-loop-skill",
+  "skillId": "review-loop",
+  "name": "review-loop",
+  "installs": 111265
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "agent-browser",
+  "name": "agent-browser",
+  "installs": 110949
+ },
+ {
+  "source": "solana-foundation/solana-dev-skill",
+  "skillId": "solana-dev",
+  "name": "solana-dev",
+  "installs": 110554
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "break-ui",
+  "name": "break-ui",
+  "installs": 108596
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "cloudflare-one",
+  "name": "cloudflare-one",
+  "installs": 108552
+ },
+ {
+  "source": "browser-act/skills",
+  "skillId": "browser-act",
+  "name": "browser-act",
+  "installs": 108426
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "turnstile-spin",
+  "name": "turnstile-spin",
+  "installs": 107835
+ },
+ {
+  "source": "currents-dev/playwright-best-practices-skill",
+  "skillId": "playwright-best-practices",
+  "name": "playwright-best-practices",
+  "installs": 105946
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "agent-browser",
+  "name": "agent-browser",
+  "installs": 105174
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "competitor-profiling",
+  "name": "competitor-profiling",
+  "installs": 104812
+ },
+ {
+  "source": "firecrawl/cli",
+  "skillId": "firecrawl",
+  "name": "firecrawl",
+  "installs": 104450
+ },
+ {
+  "source": "cloudflare/security-audit-skill",
+  "skillId": "security-audit",
+  "name": "security-audit",
+  "installs": 104249
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "cloudflare-one-migrations",
+  "name": "cloudflare-one-migrations",
+  "installs": 104056
+ },
+ {
+  "source": "nutlope/hallmark",
+  "skillId": "hallmark",
+  "name": "hallmark",
+  "installs": 103944
+ },
+ {
+  "source": "intellectronica/agent-skills",
+  "skillId": "notion-api",
+  "name": "notion-api",
+  "installs": 103324
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "python-executor",
+  "name": "python-executor",
+  "installs": 103264
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "remotion-render",
+  "name": "remotion-render",
+  "installs": 103178
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "infsh-cli",
+  "name": "infsh-cli",
+  "installs": 103172
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "agent-tools",
+  "name": "agent-tools",
+  "installs": 103126
+ },
+ {
+  "source": "skills-shell/superpowers",
+  "skillId": "web-search",
+  "name": "web-search",
+  "installs": 103069
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "cro",
+  "name": "cro",
+  "installs": 102788
+ },
+ {
+  "source": "stripe/ai",
+  "skillId": "stripe-best-practices",
+  "name": "stripe-best-practices",
+  "installs": 102571
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "theme-factory",
+  "name": "theme-factory",
+  "installs": 101909
+ },
+ {
+  "source": "prisma/skills",
+  "skillId": "prisma-orm-setup",
+  "name": "prisma-orm-setup",
+  "installs": 101580
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "doc-coauthoring",
+  "name": "doc-coauthoring",
+  "installs": 101079
+ },
+ {
+  "source": "typesafe-ai/skills",
+  "skillId": "typesafe-ai",
+  "name": "typesafe-ai",
+  "installs": 100696
+ },
+ {
+  "source": "mastra-ai/skills",
+  "skillId": "mastra",
+  "name": "mastra",
+  "installs": 100530
+ },
+ {
+  "source": "wshobson/agents",
+  "skillId": "typescript-advanced-types",
+  "name": "typescript-advanced-types",
+  "installs": 99701
+ },
+ {
+  "source": "browser-use/browser-use",
+  "skillId": "browser-use",
+  "name": "browser-use",
+  "installs": 99607
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "community-marketing",
+  "name": "community-marketing",
+  "installs": 98936
+ },
+ {
+  "source": "mcollina/skills",
+  "skillId": "fastify-best-practices",
+  "name": "fastify-best-practices",
+  "installs": 98044
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "social",
+  "name": "social",
+  "installs": 97580
+ },
+ {
+  "source": "spillwavesolutions/design-doc-mermaid",
+  "skillId": "design-doc-mermaid",
+  "name": "design-doc-mermaid",
+  "installs": 97419
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "website-to-video",
+  "name": "website-to-video",
+  "installs": 97353
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "image",
+  "name": "image",
+  "installs": 97025
+ },
+ {
+  "source": "obsidianmd/obsidian-skills",
+  "skillId": "obsidian-markdown",
+  "name": "obsidian-markdown",
+  "installs": 96375
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "video",
+  "name": "video",
+  "installs": 96204
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "product-marketing",
+  "name": "product-marketing",
+  "installs": 95670
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "algorithmic-art",
+  "name": "algorithmic-art",
+  "installs": 95122
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "directory-submissions",
+  "name": "directory-submissions",
+  "installs": 94816
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "analytics",
+  "name": "analytics",
+  "installs": 94710
+ },
+ {
+  "source": "convex/agent-skills",
+  "skillId": "convex-performance-audit",
+  "name": "convex-performance-audit",
+  "installs": 94263
+ },
+ {
+  "source": "convex/agent-skills",
+  "skillId": "convex-setup-auth",
+  "name": "convex-setup-auth",
+  "installs": 93853
+ },
+ {
+  "source": "convex/agent-skills",
+  "skillId": "convex-migration-helper",
+  "name": "convex-migration-helper",
+  "installs": 93834
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "ads",
+  "name": "ads",
+  "installs": 93384
+ },
+ {
+  "source": "nrwl/nx-ai-agents-config",
+  "skillId": "nx-workspace",
+  "name": "nx-workspace",
+  "installs": 92252
+ },
+ {
+  "source": "prime-skills/runcomfy-agent-skills",
+  "skillId": "gpt-image-2",
+  "name": "gpt-image-2",
+  "installs": 92160
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "gsap",
+  "name": "gsap",
+  "installs": 92063
+ },
+ {
+  "source": "vercel/turborepo",
+  "skillId": "turborepo",
+  "name": "turborepo",
+  "installs": 90022
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "pricing",
+  "name": "pricing",
+  "installs": 89956
+ },
+ {
+  "source": "mattpocock/skills",
+  "skillId": "review",
+  "name": "review",
+  "installs": 89886
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "infsh-cli",
+  "name": "infsh-cli",
+  "installs": 89876
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "agent-tools",
+  "name": "agent-tools",
+  "installs": 89875
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "remotion-render",
+  "name": "remotion-render",
+  "installs": 89799
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "web-search",
+  "name": "web-search",
+  "installs": 89787
+ },
+ {
+  "source": "qu-skills/superpowers",
+  "skillId": "python-executor",
+  "name": "python-executor",
+  "installs": 89758
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "website-to-hyperframes",
+  "name": "website-to-hyperframes",
+  "installs": 89314
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "co-marketing",
+  "name": "co-marketing",
+  "installs": 89262
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "schema",
+  "name": "schema",
+  "installs": 89103
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "launch",
+  "name": "launch",
+  "installs": 88170
+ },
+ {
+  "source": "greensock/gsap-skills",
+  "skillId": "gsap-core",
+  "name": "gsap-core",
+  "installs": 88158
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "competitors",
+  "name": "competitors",
+  "installs": 88105
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "emails",
+  "name": "emails",
+  "installs": 88060
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "ab-testing",
+  "name": "ab-testing",
+  "installs": 86975
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "code-review-and-quality",
+  "name": "code-review-and-quality",
+  "installs": 86627
+ },
+ {
+  "source": "microsoft/azure-skills",
+  "skillId": "azure-observability",
+  "name": "azure-observability",
+  "installs": 86214
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "internal-comms",
+  "name": "internal-comms",
+  "installs": 85857
+ },
+ {
+  "source": "obsidianmd/obsidian-skills",
+  "skillId": "obsidian-cli",
+  "name": "obsidian-cli",
+  "installs": 85323
+ },
+ {
+  "source": "firecrawl/cli",
+  "skillId": "firecrawl-search",
+  "name": "firecrawl-search",
+  "installs": 85253
+ },
+ {
+  "source": "browser-act/skills",
+  "skillId": "browser-act-skill-forge",
+  "name": "browser-act-skill-forge",
+  "installs": 85204
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "polish",
+  "name": "polish",
+  "installs": 85171
+ },
+ {
+  "source": "googleworkspace/cli",
+  "skillId": "gws-gmail",
+  "name": "gws-gmail",
+  "installs": 84881
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "aso",
+  "name": "aso",
+  "installs": 84832
+ },
+ {
+  "source": "greensock/gsap-skills",
+  "skillId": "gsap-scrolltrigger",
+  "name": "gsap-scrolltrigger",
+  "installs": 84493
+ },
+ {
+  "source": "firecrawl/cli",
+  "skillId": "firecrawl-scrape",
+  "name": "firecrawl-scrape",
+  "installs": 84347
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "security-and-hardening",
+  "name": "security-and-hardening",
+  "installs": 83902
+ },
+ {
+  "source": "herdrdev/herdr",
+  "skillId": "herdr",
+  "name": "herdr",
+  "installs": 83092
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "onboarding",
+  "name": "onboarding",
+  "installs": 82921
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "free-tools",
+  "name": "free-tools",
+  "installs": 82900
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "sandbox-stable",
+  "name": "sandbox-stable",
+  "installs": 82875
+ },
+ {
+  "source": "obsidianmd/obsidian-skills",
+  "skillId": "obsidian-bases",
+  "name": "obsidian-bases",
+  "installs": 82875
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "critique",
+  "name": "critique",
+  "installs": 82637
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "sandbox-next",
+  "name": "sandbox-next",
+  "installs": 82105
+ },
+ {
+  "source": "cloudflare/skills",
+  "skillId": "sandbox-migrate-to-next",
+  "name": "sandbox-migrate-to-next",
+  "installs": 82005
+ },
+ {
+  "source": "firecrawl/cli",
+  "skillId": "firecrawl-agent",
+  "name": "firecrawl-agent",
+  "installs": 81987
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "audit",
+  "name": "audit",
+  "installs": 81858
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "animate",
+  "name": "animate",
+  "installs": 81731
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "adapt",
+  "name": "adapt",
+  "installs": 81720
+ },
+ {
+  "source": "agentix-cloud/skills",
+  "skillId": "agentix-ceo",
+  "name": "agentix-ceo",
+  "installs": 81621
+ },
+ {
+  "source": "firecrawl/cli",
+  "skillId": "firecrawl-crawl",
+  "name": "firecrawl-crawl",
+  "installs": 81346
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "referrals",
+  "name": "referrals",
+  "installs": 81245
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "clarify",
+  "name": "clarify",
+  "installs": 81211
+ },
+ {
+  "source": "greensock/gsap-skills",
+  "skillId": "gsap-performance",
+  "name": "gsap-performance",
+  "installs": 81160
+ },
+ {
+  "source": "greensock/gsap-skills",
+  "skillId": "gsap-timeline",
+  "name": "gsap-timeline",
+  "installs": 81146
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "optimize",
+  "name": "optimize",
+  "installs": 81054
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "colorize",
+  "name": "colorize",
+  "installs": 80875
+ },
+ {
+  "source": "firecrawl/cli",
+  "skillId": "firecrawl-map",
+  "name": "firecrawl-map",
+  "installs": 80871
+ },
+ {
+  "source": "emilkowalski/skills",
+  "skillId": "animation-performance",
+  "name": "animation-performance",
+  "installs": 80789
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "signup",
+  "name": "signup",
+  "installs": 80782
+ },
+ {
+  "source": "firecrawl/cli",
+  "skillId": "firecrawl-download",
+  "name": "firecrawl-download",
+  "installs": 80455
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "slack-gif-creator",
+  "name": "slack-gif-creator",
+  "installs": 80423
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "frontend-ui-engineering",
+  "name": "frontend-ui-engineering",
+  "installs": 80208
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "bolder",
+  "name": "bolder",
+  "installs": 80008
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "claude-api",
+  "name": "claude-api",
+  "installs": 79856
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "delight",
+  "name": "delight",
+  "installs": 79846
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "paywalls",
+  "name": "paywalls",
+  "installs": 79747
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "popups",
+  "name": "popups",
+  "installs": 79486
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "distill",
+  "name": "distill",
+  "installs": 79457
+ },
+ {
+  "source": "pbakaus/impeccable",
+  "skillId": "quieter",
+  "name": "quieter",
+  "installs": 78654
+ },
+ {
+  "source": "greensock/gsap-skills",
+  "skillId": "gsap-plugins",
+  "name": "gsap-plugins",
+  "installs": 78488
+ },
+ {
+  "source": "nexscope-ai/amazon-skills",
+  "skillId": "amazon-product-research",
+  "name": "amazon-product-research",
+  "installs": 78337
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "marketing-plan",
+  "name": "marketing-plan",
+  "installs": 77864
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "performance-optimization",
+  "name": "performance-optimization",
+  "installs": 77471
+ },
+ {
+  "source": "obsidianmd/obsidian-skills",
+  "skillId": "json-canvas",
+  "name": "json-canvas",
+  "installs": 77395
+ },
+ {
+  "source": "greensock/gsap-skills",
+  "skillId": "gsap-react",
+  "name": "gsap-react",
+  "installs": 77387
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "reverse-any-video",
+  "name": "reverse-any-video",
+  "installs": 77237
+ },
+ {
+  "source": "obsidianmd/obsidian-skills",
+  "skillId": "defuddle",
+  "name": "defuddle",
+  "installs": 77180
+ },
+ {
+  "source": "googleworkspace/cli",
+  "skillId": "gws-drive",
+  "name": "gws-drive",
+  "installs": 77041
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "spec-driven-development",
+  "name": "spec-driven-development",
+  "installs": 76933
+ },
+ {
+  "source": "jakubkrehel/make-interfaces-feel-better",
+  "skillId": "make-interfaces-feel-better",
+  "name": "make-interfaces-feel-better",
+  "installs": 76550
+ },
+ {
+  "source": "googleworkspace/cli",
+  "skillId": "gws-gmail-send",
+  "name": "gws-gmail-send",
+  "installs": 76352
+ },
+ {
+  "source": "greensock/gsap-skills",
+  "skillId": "gsap-utils",
+  "name": "gsap-utils",
+  "installs": 75978
+ },
+ {
+  "source": "stripe/ai",
+  "skillId": "upgrade-stripe",
+  "name": "upgrade-stripe",
+  "installs": 75866
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "planning-and-task-breakdown",
+  "name": "planning-and-task-breakdown",
+  "installs": 75749
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "documentation-and-adrs",
+  "name": "documentation-and-adrs",
+  "installs": 75741
+ },
+ {
+  "source": "anthropics/skills",
+  "skillId": "template-skill",
+  "name": "template-skill",
+  "installs": 75597
+ },
+ {
+  "source": "expo/skills",
+  "skillId": "expo-dev-client",
+  "name": "expo-dev-client",
+  "installs": 75417
+ },
+ {
+  "source": "squirrelscan/skills",
+  "skillId": "audit-website",
+  "name": "audit-website",
+  "installs": 75004
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "prospecting",
+  "name": "prospecting",
+  "installs": 74926
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "code-simplification",
+  "name": "code-simplification",
+  "installs": 74872
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "api-and-interface-design",
+  "name": "api-and-interface-design",
+  "installs": 74762
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "python-executor",
+  "name": "python-executor",
+  "installs": 74703
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "debugging-and-error-recovery",
+  "name": "debugging-and-error-recovery",
+  "installs": 74651
+ },
+ {
+  "source": "degausai/wonda",
+  "skillId": "wonda-cli",
+  "name": "wonda-cli",
+  "installs": 74605
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "web-search",
+  "name": "web-search",
+  "installs": 74077
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "agent-tools",
+  "name": "agent-tools",
+  "installs": 74062
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "infsh-cli",
+  "name": "infsh-cli",
+  "installs": 74060
+ },
+ {
+  "source": "bankai-skills/superpowers",
+  "skillId": "remotion-render",
+  "name": "remotion-render",
+  "installs": 73980
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "test-driven-development",
+  "name": "test-driven-development",
+  "installs": 73509
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "context-engineering",
+  "name": "context-engineering",
+  "installs": 73289
+ },
+ {
+  "source": "wshobson/agents",
+  "skillId": "tailwind-design-system",
+  "name": "tailwind-design-system",
+  "installs": 73220
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "incremental-implementation",
+  "name": "incremental-implementation",
+  "installs": 73175
+ },
+ {
+  "source": "coreyhaines31/marketingskills",
+  "skillId": "sms",
+  "name": "sms",
+  "installs": 73105
+ },
+ {
+  "source": "greensock/gsap-skills",
+  "skillId": "gsap-frameworks",
+  "name": "gsap-frameworks",
+  "installs": 72756
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "css-animations",
+  "name": "css-animations",
+  "installs": 72306
+ },
+ {
+  "source": "agent.qq.com",
+  "skillId": "agently-mail",
+  "name": "agently-mail",
+  "installs": 72248
+ },
+ {
+  "source": "stripe/ai",
+  "skillId": "stripe-projects",
+  "name": "stripe-projects",
+  "installs": 71637
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "git-workflow-and-versioning",
+  "name": "git-workflow-and-versioning",
+  "installs": 71017
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "style-sampling",
+  "name": "style-sampling",
+  "installs": 70731
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "tailwind",
+  "name": "tailwind",
+  "installs": 70553
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "idea-refine",
+  "name": "idea-refine",
+  "installs": 70452
+ },
+ {
+  "source": "remotion-dev/skills",
+  "skillId": "remotion-license",
+  "name": "remotion-license",
+  "installs": 70269
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "remotion-render",
+  "name": "remotion-render",
+  "installs": 70196
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "web-search",
+  "name": "web-search",
+  "installs": 70175
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "agent-tools",
+  "name": "agent-tools",
+  "installs": 70125
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "python-executor",
+  "name": "python-executor",
+  "installs": 70124
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "using-agent-skills",
+  "name": "using-agent-skills",
+  "installs": 70095
+ },
+ {
+  "source": "its-a-skill-issue/superpowers",
+  "skillId": "infsh-cli",
+  "name": "infsh-cli",
+  "installs": 70018
+ },
+ {
+  "source": "heygen-com/hyperframes",
+  "skillId": "animejs",
+  "name": "animejs",
+  "installs": 70010
+ },
+ {
+  "source": "vercel/ai",
+  "skillId": "ai-sdk",
+  "name": "ai-sdk",
+  "installs": 69917
+ },
+ {
+  "source": "addyosmani/agent-skills",
+  "skillId": "browser-testing-with-devtools",
+  "name": "browser-testing-with-devtools",
+  "installs": 69888
+ },
+ {
+  "source": "addyosmani/web-quality-skills",
+  "skillId": "accessibility",
+  "name": "accessibility",
+  "installs": 69868
+ },
+ {
+  "source": "dietrichgebert/ponytail",
+  "skillId": "ponytail-review",
+  "name": "ponytail-review",
+  "installs": 69838
+ }
+]
