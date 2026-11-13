@@ -1,0 +1,12 @@
+{
+  "name": "skill-vet",
+  "version": "1.0.0",
+  "description": "Safety-scan agent skills before installation",
+  "type": "module",
+  "bin": { "skill-vet": "bin/skill-vet.mjs" },
+  "exports": "./src/scan.mjs",
+  "files": ["bin", "src", "SKILL.md", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
