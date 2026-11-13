@@ -1,12 +1,41 @@
 {
   "name": "agent-skill-vet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Safety-scan agent skills before installation",
   "type": "module",
-  "bin": { "agent-skill-vet": "bin/skill-vet.mjs" },
+  "bin": {
+    "agent-skill-vet": "bin/skill-vet.mjs"
+  },
   "exports": "./src/scan.mjs",
-  "files": ["bin", "src", "SKILL.md", "README.md", "LICENSE"],
-  "scripts": { "test": "node --test" },
-  "engines": { "node": ">=18" },
-  "license": "MIT"
+  "files": [
+    "bin",
+    "src",
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resp76/agent-skill-vet.git"
+  },
+  "homepage": "https://github.com/resp76/agent-skill-vet#readme",
+  "bugs": {
+    "url": "https://github.com/resp76/agent-skill-vet/issues"
+  },
+  "keywords": [
+    "claude-code",
+    "agent-skills",
+    "security",
+    "skills",
+    "supply-chain",
+    "hidden-unicode",
+    "prompt-injection"
+  ]
 }
