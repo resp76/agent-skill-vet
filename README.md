@@ -1,10 +1,10 @@
-# skill-vet
+# agent-skill-vet
 
 A zero-dependency Node.js 18+ CLI that scans an agent skill folder before installation.
 
 ```sh
-npx skill-vet ./candidate-skill
-npx skill-vet ./candidate-skill --json --repo owner/name --installs 20000 --pin
+npx agent-skill-vet ./candidate-skill
+npx agent-skill-vet ./candidate-skill --json --repo owner/name --installs 20000 --pin
 ```
 
 Run from source with `node bin/skill-vet.mjs ./candidate-skill`. The folder should contain `SKILL.md` with `name` and `description` frontmatter. The bundled `SKILL.md` provides a Claude Code skill for running and reporting scans.

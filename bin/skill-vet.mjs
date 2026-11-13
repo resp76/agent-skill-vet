@@ -11,7 +11,7 @@ try {
     allowPositionals: true,
   });
   if (values.help) {
-    console.log('Usage: skill-vet <path> [--json] [--verbose] [--repo owner/name] [--installs N] [--pin]');
+    console.log('Usage: agent-skill-vet <path> [--json] [--verbose] [--repo owner/name] [--installs N] [--pin]');
   } else {
     if (positionals.length !== 1) throw new Error('Provide one skill directory (use --help for usage)');
     const installs = values.installs === undefined ? undefined : Number(values.installs);
@@ -45,6 +45,6 @@ try {
     process.exitCode = findings.some(f => f.severity === 'high') ? 1 : 0;
   }
 } catch (error) {
-  console.error(`skill-vet: ${error.message}`);
+  console.error(`agent-skill-vet: ${error.message}`);
   process.exitCode = 1;
 }
